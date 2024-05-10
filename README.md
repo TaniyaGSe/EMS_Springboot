@@ -18,12 +18,4 @@ Pass data to the databse
 
 Each layer handle employee, salary and work related data seperately
 
-##Group Members
-
-194148B Senarathna W.T.G.
-194120H Pinnaduwa P.S.N.
-194031K De Silva U.D.L.L.
-194140T Sandaruwan M.D.G.A.R.
-194154N SHUKRY S.H.M
-194152G Shazina M.S.F.
 
